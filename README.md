@@ -8,4 +8,4 @@ To run the notebook (using Google Colab), you need to save the data file to your
 
 ## Usage
 
-Forming political commentary.
+Forming political commentary
